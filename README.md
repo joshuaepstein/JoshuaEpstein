@@ -8,4 +8,4 @@
 - 📫 How to reach me: Email: joshuaepstein@outlook.com
 - 😄 Pronouns: he/him
 
-https://github-readme-stats.vercel.app/api?username=joshuaepstein&show_icons=true&hide_border=true
+![Github Stats](https://github-readme-stats.vercel.app/api?username=joshuaepstein&show_icons=true&hide_border=true)
