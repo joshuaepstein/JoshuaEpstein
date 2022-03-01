@@ -1,15 +1,14 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on My Custom Minecraft Mod
-- 🌱 I’m currently learning to code more Java, PHP and Databases
-- 🤔 I’m looking for help with Textures on my custom minecraft mod
+- 🔭 I’m currently working on My Website (https://joshepstein.co.uk)
+- 🌱 I’m currently learning to code more Java, PHP, Databases and APIs
+- 🤔 I’m looking for help with 
 - 💬 Ask me about anything....
-- 📫 How to reach me: Email: joshuaepstein@outlook.com
+- 📫 How to reach me: Email: josh@joshepstein.co.uk | Discord: Joshua Epstein#4601 | Twitter: https://twitter.com/joshuaepstein17
 - 😄 Pronouns: he/him
 
 ## My Goals for 2022
-- Get my mod at a stage where I can stop coding it for a bit
 - Finish my website
 - Update my discord.js bot to v13
 - Learn more JAVA and not just MC Java.
