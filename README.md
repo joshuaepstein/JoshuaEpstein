@@ -1,4 +1,4 @@
-Hi 👋 My name is Joshua Epstein
+Hi 👋 My name is **Joshua Epstein**
 ===============================
 
 Developer and Designer
@@ -6,11 +6,11 @@ Developer and Designer
 
 I've been learning to code for about 4 years. I started with HTML, JavaScript and Python. I have started to learn Java.
 
-* 🌍  I'm based in London
-* 🖥️  See my portfolio at [joshepstein.co.uk](http://joshepstein.co.uk)
-* ✉️  You can contact me at [josh@joshepstein.co.uk](mailto:josh@joshepstein.co.uk)
-* 🚀  I'm currently working on [ShadowNetwork](http://joshepstein.co.uk/coming-soon)
-* 🧠  I'm learning Java and Swift
+* 🌍  **I'm based in** London
+* 🖥️  **See my portfolio at** [joshepstein.co.uk](http://joshepstein.co.uk)
+* ✉️  **You can contact me at** [josh@joshepstein.co.uk](mailto:josh@joshepstein.co.uk)
+* 🚀  **I'm currently working on** [ShadowNetwork](http://joshepstein.co.uk/coming-soon)
+* 🧠  **I'm learning** Java
 * 😀  **Pronouns** He/him
 
 ### Skills
@@ -28,7 +28,6 @@ I've been learning to code for about 4 years. I started with HTML, JavaScript an
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
