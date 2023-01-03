@@ -7,10 +7,10 @@ Developer and Designer
 I've been learning to code for about 5 years. I started with HTML, JavaScript and Python. I have started to learn Java.
 
 * 🌍  **I'm based in** London
-* 🖥️  **See my portfolio at** [joshepstein.co.uk](http://joshepstein.co.uk)
-* ✉️  **You can contact me at** [josh@joshepstein.co.uk](mailto:josh@joshepstein.co.uk)
-* 🚀  **I'm currently working on** [ShadowNetwork](http://joshepstein.co.uk/coming-soon)
-* 🧠  **I'm learning** Java
+<!-- * 🖥️  **See my portfolio at** [joshepstein.co.uk](http://joshepstein.co.uk) -->
+* ✉️  **You can contact me at** [josh@jfstech.uk](mailto:josh@jfstech.uk)
+* 🚀  **I'm currently working on** [JFS Tech](https://jfstech.uk)
+* 🧠  **I'm learning** React/Next.js
 * 😀  **Pronouns** He/him
 
 ### Skills
