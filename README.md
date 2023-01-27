@@ -1,6 +1,8 @@
 Hi 👋 My name is **Joshua Epstein**
 ===============================
 
+<a href="https://app.daily.dev/JoshuaEpstein"><img src="https://api.daily.dev/devcards/9784824bd5454522a4a49d58eaa7e21e.png?r=3ec" width="400" alt="Joshua Epstein's Dev Card"/></a>
+
 Developer and Designer
 ----------------------
 
