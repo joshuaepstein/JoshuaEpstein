@@ -5,12 +5,12 @@ Developer and Designer
 
 ----------------------
 
-I've been learning to code for about 5 years. I started with HTML, JavaScript and Python. I have started to learn Java.
+I've been learning to code for about 6 years. I started with HTML, CSS, JavaScript and Python. Since then I have developed minecraft mods in Java and now, developing the frontend and backend for webites using nextjs.
 
 * 🌍  **I'm based in** London
 <!-- * 🖥️  **See my portfolio at** [joshepstein.co.uk](http://joshepstein.co.uk) -->
 * ✉️  **You can contact me at** [josh@jfstech.uk](mailto:josh@jfstech.uk)
-* 🚀  **I'm currently working on** [JFS Tech](https://jfstech.uk)
+* 🚀  **I'm currently working on** [JFS Tech](https://jfstech.uk) and Mindplanr
 * 🧠  **I'm learning** React/Next.js
 * 😀  **Pronouns** He/him
 
