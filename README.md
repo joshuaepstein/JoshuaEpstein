@@ -10,7 +10,7 @@ I've been learning to code for about 6 years. I started with HTML, CSS, JavaScri
 * 🌍  **I'm based in** London
 <!-- * 🖥️  **See my portfolio at** [joshepstein.co.uk](http://joshepstein.co.uk) -->
 * ✉️  **You can contact me at** [josh@stagemaster.uk](mailto:josh@stagemaster.uk)
-* 🚀  **I'm currently working on** [StageMaster](https://stagemaster.uk) and Mindplanr
+* 🚀  **I'm currently working on** [JFS-Tech/StageMaster](https://stagemaster.uk) and Logicate
 * 🧠  **I'm learning** React/Next.js
 * 😀  **Pronouns** He/him
 
