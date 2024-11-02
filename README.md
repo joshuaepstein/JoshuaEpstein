@@ -8,10 +8,9 @@ Developer and Designer
 I've been learning to code for about 6 years. I started with HTML, CSS, JavaScript and Python. Since then I have developed minecraft mods in Java and now, developing the frontend and backend for webites using nextjs.
 
 * 🌍  **I'm based in** London
-<!-- * 🖥️  **See my portfolio at** [joshepstein.co.uk](http://joshepstein.co.uk) -->
-* ✉️  **You can contact me at** [josh@stagemaster.uk](mailto:josh@stagemaster.uk)
-* 🚀  **I'm currently working on** [JFS-Tech/StageMaster](https://stagemaster.uk) and Logicate
-* 🧠  **I'm learning** React/Next.js
+* 🖥️  **See my portfolio at** [joshepstein.co.uk](http://joshepstein.co.uk)
+* ✉️  **You can contact me at** [josh@joshepstein.co.uk](mailto:josh@joshepstein.co.uk)
+* 🚀  **I'm currently working on** Logicate (More info soon)
 * 😀  **Pronouns** He/him
 
 ### Skills
