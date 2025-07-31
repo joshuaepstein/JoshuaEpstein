@@ -5,15 +5,13 @@ Software Engineer (and Designer)
 
 ----------------------
 
-I've been developing for about 6 years. I started with HTML, CSS, JavaScript and Python. Since then I have developed minecraft mods in Java, developed the frontend and backend for webites using Next.JS/React and Nest.JS.
+I've been developing for about 7 years. I started with HTML, CSS, JavaScript and Python. Since then I have developed minecraft mods in Java, developed the frontend and backend for webites using Next.JS/React and Nest.JS.
 
 * 🌍  **I'm based in** London
 * 🖥️  **See my portfolio at** [joshepstein.co.uk](http://joshepstein.co.uk)
 * ✉️  **You can contact me at** [josh@joshepstein.co.uk](mailto:josh@joshepstein.co.uk)
 * 🚀  **I'm currently working on** Vault Hunters
 * 😀  **Pronouns** He/him
-
-### Skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -30,11 +28,6 @@ I've been developing for about 6 years. I started with HTML, CSS, JavaScript and
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/Joshua Epstein#4601" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/joshuaepstein" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/joshuaepstein17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/joshuaepstein" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
