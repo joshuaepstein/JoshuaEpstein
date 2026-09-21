@@ -5,7 +5,7 @@ Software Engineer (and Designer)
 
 ----------------------
 
-I've been developing for about 7 years. I started with HTML, CSS, JavaScript and Python. Since then I have developed minecraft mods in Java, developed the frontend and backend for webites using Next.JS/React and Nest.JS.
+I've been developing for about 7 years. I started with HTML, CSS, JavaScript and Python. Since then I have developed minecraft mods in Java, developed the frontend and backend for webites using Next.JS/React and NestJS.
 
 * 🌍  **I'm based in** London
 * 🖥️  **See my portfolio at** [joshepstein.co.uk](http://joshepstein.co.uk)
